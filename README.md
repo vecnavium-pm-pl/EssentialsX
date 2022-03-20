@@ -14,7 +14,7 @@ In Development
 
 # Planned features
 
-- [ ] /gms /gmc /gma
+- [ ] /gm0 /gm1 /gm2 /gm3
 - [ ] /ping
 - [ ] /feed
 - [ ] /heal
