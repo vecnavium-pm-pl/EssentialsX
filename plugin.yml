@@ -1,0 +1,7 @@
+---
+name: EssentialsX
+version: 0.0.1
+main: Vecnavium\EssentialsX\Main
+api: 4.2.0
+src-namespace-prefix: Vecnavium\EssentialsX
+...
