@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <img alt="GitHubrelease" src="https://img.shields.io/github/v/release/Vecnavium-pm-pl/EssentialsX?label=release&sort=semver">
       <img alt="Stars" src= "https://img.shields.io/github/stars/Vecnavium-pm-pl/EssentialsX?style=for-the-badge">
+<img alt="GitHubrelease" src="https://img.shields.io/github/downloads/vecnavium-pm-pl/EssentialsX/latest/total">
     <a href="https://discord.gg/6M9tGyWPjr"><img src="https://img.shields.io/discord/837701868649709568?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
 </p>
 
