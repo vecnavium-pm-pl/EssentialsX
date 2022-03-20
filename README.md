@@ -21,6 +21,7 @@ In Development
 - [ ] /nick
 - [ ] /broadcast
 - [ ] /tpa /tpahere /tpaccept
+- [ ] /home /sethome /delhome
 - [ ] Ability to unregister/disable the commands that is within EssentialsX
 
 And will be adding more as development goes
