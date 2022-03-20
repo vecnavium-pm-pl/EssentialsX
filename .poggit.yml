@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/vecnavium-pm-pl/EssentialsX
+build-by-default: true
+branches:
+- stable
+projects:
+  EssentialsX:
+    path: ""
+...
