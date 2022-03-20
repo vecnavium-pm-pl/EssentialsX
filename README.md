@@ -20,6 +20,7 @@ In Development
 - [ ] /heal
 - [ ] /nick
 - [ ] /broadcast
+- [ ] /tpa /tpahere /tpaccept
 - [ ] Ability to unregister/disable the commands that is within EssentialsX
 
 And will be adding more as development goes
