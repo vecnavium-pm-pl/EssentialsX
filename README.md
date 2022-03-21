@@ -25,6 +25,7 @@ In Development
 - [ ] /fly
 - [ ] Custom Join & Leave message (configurable)
 - [ ] Default Spawn Point (Configurable)
+- [ ] Player chat format (configurable)
 - [ ] Ability to unregister/disable the commands that is within EssentialsX
 
 And will be adding more as development goes
