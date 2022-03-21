@@ -23,6 +23,7 @@ In Development
 - [ ] /tpa /tpahere /tpaccept
 - [ ] /home /sethome /delhome
 - [ ] /fly
+- [ ] Custom Join & Leave message (configurable)
 - [ ] Ability to unregister/disable the commands that is within EssentialsX
 
 And will be adding more as development goes
